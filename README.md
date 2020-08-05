@@ -4,6 +4,7 @@
   <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
 
 ## I'm a Student, Developer, and Programmer!
+- 🎓 I’m syudying BSc in Computer Science & Engineering.
 - 🔭 I’m currently teaching programming on [Coding With Evan][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -17,6 +18,7 @@
 [<img align="left" alt="Evan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Evan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Evan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Evan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -51,5 +53,6 @@
 [youtube]: https://youtube.com/codingwithevan
 [instagram]: https://instagram.com/evanemran
 [linkedin]: https://linkedin.com/in/evanemran
+[facebook]: https://facebook.com/emranevan
 [pythonprojectplaylist]: https://www.youtube.com/playlist?list=PLVE5czp3KIIzqqZlsu-RSAUGgErJ6XrmE
 [androidplaylist]: https://www.youtube.com/playlist?list=PLVE5czp3KIIxBNaBp7I2FPUFiWtEWGUI3
