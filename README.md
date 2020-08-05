@@ -7,6 +7,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am also a GAMER! 
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
+
 ### Connect with me:
 
 [<img align="left" alt="Evan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -40,8 +43,6 @@
 ---
 
 <img align="left" alt="evanemran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=evanemran&show_icons=true&hide_border=true&hide=issues,contribs" />
-
----
 
 <img align="left" alt="evanemran's language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanemran&show_icons=true&hide_border=true" />
 
