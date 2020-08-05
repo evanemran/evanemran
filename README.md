@@ -41,6 +41,10 @@
 
 <img align="left" alt="evanemran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=evanemran&show_icons=true&hide_border=true&hide=issues,contribs" />
 
+---
+
+<img align="left" alt="evanemran's language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanemran&show_icons=true&hide_border=true" />
+
 [website]: https://www.youtube.com/channel/UCghuahHSahEqxMcvg7bzGaA
 [twitter]: https://twitter.com/evanemran
 [youtube]: https://youtube.com/codingwithevan
