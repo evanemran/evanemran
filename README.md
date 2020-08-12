@@ -4,7 +4,7 @@
   <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
 
 ## I'm a Student, Developer, and Programmer!
-- 🎓 I’m syudying BSc in Computer Science & Engineering.
+- 🎓 I’m studying BSc in Computer Science & Engineering.
 - 🔭 I’m currently teaching programming on [Coding With Evan][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
