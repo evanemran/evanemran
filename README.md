@@ -3,7 +3,7 @@
 
 ## I'm a Student, Developer, and Programmer!
 - 🎓 Computer Science Engineer.
-- 🔭 I’m currently teaching programming on [Coding With Evan][website]!
+- 🔭 I make programming tutorials on [Coding With Evan][website]!
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am also a GAMER! 
 
