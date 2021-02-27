@@ -1,10 +1,10 @@
 ### Hi there, I'm Evan - aka [CodingWithEvan][website] 
 
 
-## I'm a Student, Developer, and Programmer!
+## I'm a App Developer and Programmer!
 - 🎓 Computer Science Engineer.
 - 🔭 I make programming tutorials on [Coding With Evan][website]!
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am also a GAMER! 
 
 ### Connect with me:
