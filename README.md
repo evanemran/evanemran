@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am also a GAMER! 
 
-![](https://komarev.com/ghpvc/?username=MdAtifuzzaman01&color=brightgreen&style=plastic)
+![](https://komarev.com/ghpvc/?username=evanemran&color=brightgreen&style=plastic)
 
 ### Connect with me:
 
