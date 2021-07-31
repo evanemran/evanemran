@@ -1,4 +1,4 @@
-### Hi there, I'm Evan - aka [CodingWithEvan][website] 
+### Hi there, I'm Evan - aka [Coding With Evan][website] 
 
 
 ## I'm a App Developer and Programmer!
