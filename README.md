@@ -1,10 +1,10 @@
 ### Hi there, I'm Evan - aka [Coding With Evan][website] 
 
 
-## I'm a App Developer and Programmer!
+## I'm a Programmer and App Developer!
 - 🎓 Computer Science Engineer.
 - 🔭 I make programming tutorials on [Coding With Evan][website]!
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am also a GAMER! 
 
 ![](https://komarev.com/ghpvc/?username=evanemran&color=brightgreen&style=plastic)
