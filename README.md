@@ -2,8 +2,8 @@
 
 
 ## I'm a Programmer and App Developer!
-- 🎓 Computer Science Engineer.
-- 🔭 I make programming tutorials on [Coding With Evan][website]!
+- 🎓 Masters in Computer Science & Engineering.
+- 🔭 Software Engineer and also make programming tutorials on [Coding With Evan][website]!
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am also a GAMER! 
 
@@ -43,9 +43,29 @@
 
 ---
 
-<img align="left" alt="evanemran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=evanemran&show_icons=true&hide_border=true&hide=issues" />
+### GitHub Stats
+<p align="left">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=evanemran&show_icons=true&theme=github" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=evanemran&theme=github" />
+</p>
 
-<img align="left" alt="evanemran's language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanemran&show_icons=true&hide_border=true" />
+### Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evanemran&theme=github"/>
+</p>
+
+### Top Languages
+<p align="center">
+	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=evanemran&theme=github" />
+	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=evanemran&theme=github" />
+</p>
+
+### Top Commits
+<p align="center">
+	<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=evanemran&theme=github&utcOffset=8" />
+</p>
+
+<!-- <img align="left" alt="evanemran's language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanemran&show_icons=true&hide_border=true" /> -->
 
 [website]: https://www.youtube.com/channel/UCghuahHSahEqxMcvg7bzGaA
 [twitter]: https://twitter.com/evanemran
