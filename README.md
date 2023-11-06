@@ -1,5 +1,5 @@
 ### Hi there, I'm Evan - aka [Coding With Evan][website] 
-<a href="https://app.daily.dev/evanemran"><img align='right' src="https://github.com/evanemran/evanemran/blob/master/devcard.svg" width="250" alt="Emran Khandaker Evan's Dev Card"/></a>
+<a href="https://app.daily.dev/evanemran"><img align='right' src="https://github.com/evanemran/evanemran/blob/master/devcard.svg" width="220" alt="Emran Khandaker Evan's Dev Card"/></a>
 ## I'm a Programmer and App Developer!
 - 🎓 Masters in Computer Science & Engineering.
 - 🔭 Software Engineer and also make programming tutorials on [Coding With Evan][website]!
