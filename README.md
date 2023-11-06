@@ -1,6 +1,5 @@
 ### Hi there, I'm Evan - aka [Coding With Evan][website] 
-
-
+<a href="https://app.daily.dev/evanemran"><img align='right' src="https://api.daily.dev/devcards/474ecc40898945f78313d3b07f46bbf4.png?r=dp0" width="200" alt="Emran Khandaker Evan's Dev Card"/></a>
 ## I'm a Programmer and App Developer!
 - 🎓 Masters in Computer Science & Engineering.
 - 🔭 Software Engineer and also make programming tutorials on [Coding With Evan][website]!
@@ -18,7 +17,7 @@
 [<img align="left" alt="Evan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Evan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 
-<br />
+
 
 ### Languages and Tools:
 
