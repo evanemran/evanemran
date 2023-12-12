@@ -4,7 +4,7 @@
 - 🎓 Masters in Computer Science & Engineering.
 - 🔭 Software Engineer and also make programming tutorials on [Coding With Evan][website]!
 - 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am also a GAMER! 
+- ⚡ Fun fact: I am also a GAMER & CYCLIST! 
 
 ![](https://komarev.com/ghpvc/?username=evanemran&color=brightgreen&style=plastic)
 
